@@ -48,18 +48,11 @@ United States
 #### Network Engineer  
 *March 2006 - September 2011 (5 years 7 months)*  
 
-- Designed, implemented, and optimized secure SIPRNet and NIPRNet solutions using TACLANE KG-175 encryptors for encrypted L2/L3 data transfer across classified networks.
-- Configured, deployed, and troubleshot Cisco routers, switches, ASA 5500 VPN concentrators; established 3DES/IPSec VPN tunnels, OSPF routing, VLANs, 802.1Q trunking, and QoS policies.
-- Researched, tested, and deployed network security technologies including SourceFire IDS, Cisco NCM, Cisco NAC, and Cisco ACS (TACACS+) for authentication and access control.
-- Designed and managed enterprise Aruba wireless infrastructure supporting 1,500+ clients; maintained wired network for 25,000+ users with high availability and performance monitoring.
-- Led IT datacenter redesign and implementation, including change management, configuration control, and version control processes.
-
-**Responsibilities:**  
-- Lead SIPRNet Engineer for design, implementation, and operational troubleshooting.  
-- Lead Engineer for network security using Cisco ACS (TACACS+).  
-- Lead Engineer for network management software including CiscoWorks and SolarWinds Orion.  
-- Responsible for network change management using standard configuration control and version control.  
-- Lead for IT Datacenter redesign and implementation.
+- Designed, implemented, and optimized secure SIPRNet/NIPRNet networks using TACLANE encryptors for classified data transfer.
+- Configured Cisco routers, switches, ASA VPNs; established IPSec tunnels, OSPF, VLANs, and QoS.
+- Deployed network security technologies including SourceFire IDS, Cisco NAC, and ACS (TACACS+).
+- Managed enterprise Aruba wireless for 1,500+ clients and wired network for 25,000+ users; led datacenter redesign.
+- Served as lead engineer for SIPRNet, network security, management tools (CiscoWorks/SolarWinds), and change management.
 
 ## Education  
 Trident University International  
