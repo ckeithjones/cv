@@ -38,31 +38,12 @@ United States
 *September 2011 - November 2018 (7 years 3 months)*  
 *Georgia*  
 
-**VMware & Virtualization:**  
-- Extensive experience with ESXi 5.5 – 6.7 and VMware administration.  
-- Led NSX-V deployment for a federal agency, including initial setup, architecture design, troubleshooting, and ongoing maintenance. The deployment was a 100% greenfield implementation.  
-- Administered a VMware 6.7 environment with 2,000+ virtual machines, ensuring stability, performance, and scalability.  
-
-**Enterprise Networking & Infrastructure:**  
-- Expertise in HP C7000 and Synergy enclosures for high-performance computing.  
-- Led a datacenter network infrastructure upgrade, optimizing performance and reliability.  
-- Spearheaded the migration to SolarWinds for enterprise-wide monitoring and alerting.  
-- Managed a Cisco wireless AP deployment across the Macon client site, improving coverage and connectivity.  
-
-**Core Skillset:**  
-- Cloud Administration: Akamai Content Delivery Network (CDN) expertise.  
-- Network Engineering: Extensive experience with Cisco Layer 2/3 networking, specializing in datacenter optimization.  
-- System Administration: Standardization and administration of Windows environments for enterprise efficiency.  
-- Virtualization Administration: Expertise in VMware hypervisor and vCenter management platforms.  
-
-**Automation & Monitoring:**  
-- Skilled in System Center Orchestrator, SCOM, and SCCM for automation and troubleshooting.  
-- Experience with change management processes from initiation to completion.  
-
-**Enterprise Security & Compliance:**  
-- Proficiency with Palo Alto firewalls and Forcepoint/Websense email and web security solutions.  
-- Familiarity with security assessments and compliance requirements in enterprise environments.  
-- Secure File Transfer Solutions: Support and administration of Sterling Commerce’s Connect:Direct (C:D), Secure+, and FTP+ products.
+Led greenfield VMware NSX-V deployment for federal agency: designed architecture, configured logical switching, routing, distributed firewall, micro-segmentation, edge services gateway, load balancing; performed setup, troubleshooting, maintenance for software-defined networking (SDN) and zero-trust security.
+Administered enterprise VMware vSphere/ESXi 5.5-6.7 environment with vCenter Server: managed 2,000+ VMs, clusters, High Availability (HA), Distributed Resource Scheduler (DRS), vMotion, Storage vMotion, Fault Tolerance; optimized performance, scalability, resource allocation.
+Standardized and administered Windows Server environments: Active Directory, Group Policy, patching via SCCM, System Center Orchestrator/SCOM for automation, monitoring, troubleshooting; ensured compliance and efficiency.
+Directed datacenter infrastructure upgrades: HP C7000/Synergy blade enclosures, Cisco Layer 2/3 datacenter networking, SolarWinds enterprise monitoring migration, Cisco wireless controller/AP deployments.
+Managed security solutions: Palo Alto firewalls, Forcepoint/Websense web/email security, Sterling Connect:Direct secure file transfer; Akamai CDN administration.
+Enforced change management, enterprise compliance, disaster recovery planning.
 
 ### Monterey Consultants, Inc.  
 #### Senior Network Engineer  
