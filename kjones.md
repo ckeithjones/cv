@@ -1,7 +1,6 @@
 # Keith Jones
 
-Azure Solutions Architect and DevOps Engineer skilled in **Azure DevOps**, **CI/CD pipelines**, **Infrastructure as Code (IaC)** using **Bicep**, **ARM templates**, **GitHub Actions**, **Azure Migrate**, cloud migration, governance, and hybrid solutions.  
-United States
+Azure Solutions Architect & DevOps Engineer | Azure DevOps | CI/CD Pipelines | IaC (Bicep/ARM) | Cloud Migration | Azure Governance | Network Engineer | Github Actions
 
 ## Contact
 - Email: ckeithjones@gmail.com  
@@ -45,11 +44,11 @@ United States
 #### Azure DevOps Engineer  
 *November 2018 - Present (7 years 2 months)*  
 
-- Architected and implemented secure, scalable **Azure cloud solutions** leveraging **IaaS**, **PaaS**, **SaaS**, and hybrid models to migrate on-premises infrastructure to Azure, ensuring high availability, disaster recovery, compliance, and DevSecOps practices.  
-- Led comprehensive cloud assessments of applications, VMs, and infrastructure using **Azure Migrate** and **Azure Site Recovery**; identified optimization gaps and recommended cost-effective lift-and-shift strategies for **Azure Virtual Machines**, **Virtual Networks**, **Azure Storage**, reducing operational costs through **FinOps** best practices and **Azure Cost Management**.  
-- Specialized in **Infrastructure as Code (IaC)** deployments with **ARM templates** and **Bicep**; orchestrated **CI/CD pipelines** via **Azure DevOps** and **GitHub Actions** for automated deployments.  
-- Mentored and trained junior engineers on **Azure CLI**, **PowerShell**, and Portal usage, fostering certifications (AZ-900, AZ-104, AZ-305) and promoting agile methodologies to enhance team productivity.  
-- Acted as primary liaison for cross-functional teams (DevOps, SecOps, FinOps, Microsoft Services), aligning on **Azure Governance**, **Azure Policy**, **RBAC**, **Azure Blueprints**, and **Cost Management** to drive seamless collaboration and strategic IT leadership.
+- Architected and implemented secure, scalable Azure cloud solutions leveraging IaaS, PaaS, SaaS, and hybrid models to migrate on-premises infrastructure to Azure, ensuring high availability, disaster recovery, compliance, and DevSecOps practices.  
+- Led comprehensive cloud assessments of applications, VMs, and infrastructure using Azure Migrate and Azure Site Recovery; identified optimization gaps and recommended cost-effective lift-and-shift strategies for Azure Virtual Machines, Virtual Networks, Azure Storage, reducing operational costs through FinOps best practices and Azure Cost Management.  
+- Specialized in Infrastructure as Code (IaC) deployments with ARM templates and Bicep; orchestrated CI/CD pipelines via Azure DevOps and GitHub Actions for automated deployments.  
+- Mentored and trained junior engineers on Azure CLI, PowerShell, and Portal usage, fostering certifications (AZ-900, AZ-104, AZ-305) and promoting agile methodologies to enhance team productivity.  
+- Acted as primary liaison for cross-functional teams (DevOps, SecOps, FinOps, Microsoft Services), aligning on Azure Governance, Azure Policy, RBAC, Azure Blueprints, and Cost Management to drive seamless collaboration and strategic IT leadership.
 
 #### Senior Network Engineer  
 *September 2011 - November 2018 (7 years 3 months)*  
@@ -72,7 +71,7 @@ United States
 - Designed and managed enterprise Aruba wireless infrastructure supporting 1,500+ clients; maintained wired network for 25,000+ users with high availability and performance monitoring.  
 - Led IT datacenter redesign and implementation, including change management, configuration control, and version control processes.
 
-**Responsibilities:**  
+Responsibilities:  
 - Lead SIPRNet Engineer for design, implementation, and operational troubleshooting.  
 - Lead Engineer for network security using Cisco ACS (TACACS+).  
 - Lead Engineer for network management software including CiscoWorks and SolarWinds Orion.  
